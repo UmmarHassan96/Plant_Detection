@@ -1,13 +1,13 @@
 # Plant_Detection
 The Dataset is Downloaded from https://universe.roboflow.com/project-z499k/labelled-leaf
 <br/>
-The model use is Yolov5
+The model used is Yolov5 and architecture of yolov5x is used and is trained on classes which are 'Aloe vera', 'Amla', 'Arive Dantu leaf', 'Betel', 'Crape Jasmine leaf', 'Curry leaf', 'Drumstick', 'Guava', 'Indian Beech', 'Jamaica Cherry-Gasagase', 'Jamun leaf', 'Jckfruit leaf', 'Mexican Mint', 'Oleander', 'Pomegranate', 'Rasna leaf', 'Rose Apple leaf', 'Sandalwood', 'Tulsi', 'amruthaballi', 'basale leaf', 'hibiscus leaf', 'indian mustard leaf', 'jasmine leaf', 'karanda leaf', 'lemon leaf', 'mango leaf', 'mint leaf', 'neem leaf', 'peepal herbs', 'roxburgh leaf', 'tristis -Parijata-'
 <br/>
 First of all Download Anaconda from https://www.anaconda.com/
 <br/>
 Open Anaconda Prompt from Window Logo
 <br/>
-type the commond: conda create -n plant_detection_env python=3.10
+type the command: conda create -n plant_detection_env python=3.10
 <br/>
 After running the above command type: conda activate plant_detection_env
 <br/>
