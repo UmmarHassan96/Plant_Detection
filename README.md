@@ -1,7 +1,7 @@
 # Plant Detection with YOLOv5 and Django
 
 ## Dataset
-- Download the labeled leaf dataset from [Roboflow Universe](https://universe.roboflow.com/project-z499k/labelled-leaf).
+- The Training Dataset is Downloaded from [Roboflow Universe](https://universe.roboflow.com/project-z499k/labelled-leaf).
 
 ## Setup Instructions
 
