@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 32
+names: ['Aloe vera', 'Amla', 'Arive Dantu leaf', 'Betel', 'Crape Jasmine leaf', 'Curry leaf', 'Drumstick', 'Guava', 'Indian Beech', 'Jamaica Cherry-Gasagase', 'Jamun leaf', 'Jckfruit leaf', 'Mexican Mint', 'Oleander', 'Pomegranate', 'Rasna leaf', 'Rose Apple leaf', 'Sandalwood', 'Tulsi', 'amruthaballi', 'basale leaf', 'hibiscus leaf', 'indian mustard leaf', 'jasmine leaf', 'karanda leaf', 'lemon leaf', 'mango leaf', 'mint leaf', 'neem leaf', 'peepal herbs', 'roxburgh leaf', 'tristis -Parijata-']
+
+roboflow:
+  workspace: project-z499k
+  project: labelled-leaf
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-z499k/labelled-leaf/dataset/1
